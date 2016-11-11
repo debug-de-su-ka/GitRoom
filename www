@@ -5,3 +5,8 @@ askaoskjopa
 asdjjkoo
 
 askoakd-asa
+
+
+An NSString object initialized by reading data from url. The returned object may be different from the original receiver. If the URL can’t be opened or there is an encoding error, returns nil.
+
+------
