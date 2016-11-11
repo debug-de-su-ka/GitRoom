@@ -23,6 +23,11 @@ examine the history and state (see also: git help revisions)
    show       Show various types of objects
    status     Show the working tree status
 
+
+#我们的时间
+
+$很久很久以前有一个
+
 grow, mark and tweak your common history
    branch     List, create, or delete branches
    checkout   Switch branches or restore working tree files
@@ -36,4 +41,3 @@ collaborate (see also: git help workflows)
    fetch      Download objects and refs from another repository
    pull       Fetch from and integrate with another repository or a local branch
    push       Update remote refs along with associated objects
-   
